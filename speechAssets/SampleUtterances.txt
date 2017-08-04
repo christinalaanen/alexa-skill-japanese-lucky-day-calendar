@@ -1,16 +1,36 @@
+searchIntent {date}
+searchIntent I want to know about {date}
+searchIntent Tell me about {date}
+searchIntent know about {date}
+searchIntent what do you know about {date}
+searchIntent what kind of day is {date}
+searchIntent what kind of day is the {date}
+searchIntent is {date} a lucky day
+searchIntent is {date} an unlucky day
+searchIntent tell me about {date}
+searchIntent is there a lucky day {date}
+searchIntent is there an unlucky day {date}
+searchIntent what are the lucky days {date}
+searchIntent is it a lucky day {date}
+searchIntent is it a lucky day on {date}
+searchIntent is it an unlucky day {date}
+searchIntent is it an unlucky day on {date}
+searchIntent what is scheduled {date}
+searchIntent what is scheduled on {date}
 searchIntent get me stuff happening {date}
 searchIntent get me events for {date}
 searchIntent whats on {date}
-searchIntent {date}
-searchIntent for {date}
 searchIntent whats happening {date}
 searchIntent tell me whats happening {date}
 searchIntent what is happening {date}
 searchIntent what is happening on {date}
+searchIntent what will happen on {date}
+searchIntent what is going to happen on {date}
 searchIntent what events are happening {date}
 searchIntent what events are happening on {date}
-
-eventIntent tell me about event {number}
-eventIntent whats event {number}
-eventIntent number {number}
-eventIntent {number}
+searchIntent is there an event {date}
+searchIntent is there an event on {date}
+searchIntent what are the events {date}
+searchIntent what are the events on {date}
+searchIntent are there any events on {date}
+searchIntent are there any events {date}
