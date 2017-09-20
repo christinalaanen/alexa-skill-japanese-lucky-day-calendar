@@ -1,6 +1,6 @@
 # Japanese Lucky Day Calendar
 
-This skill is based on the Calendar Reader for Alexa template. The Japanese Lucky Day Calendar utilizes a public Google calendar. Each day has one event which describes the day's luckiness.
+This calendar is based on the Japanese rokuyō, which predicts good or bad fortune on any particular day. Ask Alexa a date and she will respond with how lucky (or unlucky) that day is and will give suggestions on what activities to engage or avoid.
  
 
 
